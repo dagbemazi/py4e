@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Projects not started yet
+
+auction/
+nasa/
+uni-courses/
+*.sqlite
+*.sqbpro
+geodata/
