@@ -130,10 +130,10 @@ dmypy.json
 
 
 # Projects not started yet
+# Sqlite DBs
 
 auction/
 nasa/
 uni-courses/
 *.sqlite
 *.sqbpro
-geodata/
